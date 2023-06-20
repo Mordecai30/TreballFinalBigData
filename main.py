@@ -127,7 +127,7 @@ def concatenate_strings(strings):
 
 
 
-## Extract playlist data------------------------------------------------PLAYLISTS--------------------------------------------------------------tify.com/playlist/37i9dQZF1DXcpG5daApEnA?si=b3e345f782734c8f"]get_playlist_id(Playlists)
+## Extract playlist data------------------------------------------------PLAYLISTS--------------------------------------------------------------
 token = get_token()
 
 playlists = [
